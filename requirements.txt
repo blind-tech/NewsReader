@@ -1,0 +1,7 @@
+
+wxPython
+json
+threading
+requests
+feedparser
+urlparse
